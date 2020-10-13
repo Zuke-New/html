@@ -4,7 +4,7 @@ clear
 
 echo            "==================="
 echo            "||Author:Xgurad   ||"
-echo            "||ig:tah          ||"
+echo            "||ig:sazuke_rizky ||"
 echo            "==================="
 echo "Pilih Target Kamu"'\033[32;1m'
 read target
