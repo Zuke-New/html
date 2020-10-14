@@ -15,3 +15,5 @@ sleep 1
 echo "Please Wait...."'\033[33;1m'
 sleep 2
 curl -T /sdcard/$file $target
+echo "ktik exit to out"
+exit
